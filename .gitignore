@@ -1,0 +1,13 @@
+*.zip
+*.odb
+*.sim
+*.cae
+__pycache__/
+.pytest_cache/
+.venv/
+logs/
+*.log
+*.env
+*.key
+*.pem
+internal/
