@@ -21,14 +21,14 @@ The included **synthetic demonstration** contains 48 precomputed cases, four ext
 
 ## Download Private Beta
 
-**Release asset: `MechanicsFit-Automate-Abaqus-V0.1.1-Private-Beta.zip`**
+**Release asset: `MechanicsFit-Automate-Abaqus-V0.1.1-Private-Beta-Protected.zip`**
 
 The download link will be added here when the protected beta package has been validated and released.
 
 ## Requirements and first run
 
 - Windows and Python 3.11.
-- A local Abaqus installation with the ODB API is required to process real ODB files. Abaqus 2025 is the primary validated integration environment; other versions need beta validation.
+- A local Abaqus installation with the ODB API is required to process real ODB files. The compiled worker in this package was built and tested for Abaqus 2025's Python 3.10; other Abaqus versions are not yet supported by this protected build.
 - Demo Mode works without Abaqus.
 
 Once the ZIP is available, extract it, double-click **Start MechanicsFit.bat**, and open **Try Demo**. For real projects, configure the local Abaqus installation, select ODB files, set extraction tasks and engineering checks, then verify at least one result in Abaqus/CAE. Use **Stop MechanicsFit.bat** when finished. The app opens on an available localhost port beginning at 8503.
