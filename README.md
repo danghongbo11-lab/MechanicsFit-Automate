@@ -23,7 +23,7 @@ The included **synthetic demonstration** contains 48 precomputed cases, four ext
 
 **Release asset: `MechanicsFit-Automate-Abaqus-V0.1.1-Private-Beta-Protected.zip`**
 
-The download link will be added here when the protected beta package has been validated and released.
+[Download Private Beta from the GitHub Release](https://github.com/danghongbo11-lab/MechanicsFit-Automate/releases/tag/v0.1.1-private-beta).
 
 ## Requirements and first run
 
